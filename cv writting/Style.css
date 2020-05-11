@@ -1,0 +1,94 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    
+    background-color: #4de2d1;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 30px;
+}
+.image{
+    width: 100px;
+    height: 120px;
+     border-radius: 50%;
+     float: left;
+     padding: 10px;
+}
+.Bio{
+     float: left;
+     padding: 30px;
+}
+h1,h2,h3,h4,h5{
+    color: black;
+}
+.contac{
+    float: right;
+    padding: 30px;
+    
+}
+.contac a{
+  text-decoration: none;
+  color:  black;
+}
+.contac a:hover{
+    background-color: thistle;
+    text-decoration: underline;
+}
+hr{
+   border: black solid 3px;
+   
+}
+.clear-div{
+    clear: both;
+}
+.information{
+    padding: 20px;
+}
+#personal-section{
+
+}
+.content{
+    padding: 30px;
+}
+.left{
+    width: 30%;
+    float: left;
+
+}
+.right{
+    width: 70%;
+    float: left;
+
+}
+.commom-hr{
+    border: solid black 1px;
+    margin: 5px auto;
+}
+
+.edu-left{
+    float: left;
+    width: 45%;
+
+}
+.edu-right{
+ float:right ;
+ width: 45%;
+}
+
+.divi {
+   background-color: black;
+    float: center;
+    text-align: center;
+    padding: 20px;
+}
+.divi a{
+   color: cadetblue;
+   margin: 10px;
+   text-decoration: none;
+}
+.divi a:hover{
+    text-decoration: underline;
+    color: chocolate;
+}
